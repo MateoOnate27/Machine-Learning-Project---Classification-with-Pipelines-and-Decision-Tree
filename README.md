@@ -18,8 +18,8 @@ The app has two main sections:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/medical-appointment-noshow.git](https://github.com/your-username/medical-appointment-noshow.git)
-    cd medical-appointment-noshow
+    git clone [https://github.com/MateoOnate27/Machine-Learning-Project---Classification-with-Pipelines-and-Decision-Tree.git](https://github.com/MateoOnate27/Machine-Learning-Project---Classification-with-Pipelines-and-Decision-Tree.git)
+    cd Machine-Learning-Project---Classification-with-Pipelines-and-Decision-Tree
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
@@ -40,5 +40,6 @@ The app has two main sections:
     ```bash
     streamlit run app.py
     ```
+
 
 The application will open in your web browser.
